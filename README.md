@@ -5,4 +5,4 @@
 
 ### 海豚
 ```
-https://raw.githubusercontent.com/hanyemeiying/yuan/blob/main/ying/海豚.json
+https://raw.githubusercontent.com/hanyemeiying/yuan/main/ying/海豚.json
